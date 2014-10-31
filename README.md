@@ -1,8 +1,7 @@
 Building an Application In, and Then Around, React Components
 =============================================================
 
-This was all live coded, the iterations are found in the git commit
-history.
+This was all live coded (by Ryan Florence at the 10/28 reactjs meetup), the iterations are found in the git commit history [here](https://github.com/rpflorence/talk-react-js-utah-2014-10-28/commits/master).
 
 To run the app:
 

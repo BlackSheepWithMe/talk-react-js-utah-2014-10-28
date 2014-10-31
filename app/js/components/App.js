@@ -1,7 +1,7 @@
 /** @jsx React.DOM */
 var React = require('react');
 var req = require('../lib/req');
-var HOST = 'http://addressbook-api.herokuapp.com';
+var HOST = 'http://localhost:6969';
 var ContactList = require('./ContactList');
 var ContactStore = require('../stores/ContactStore');
 

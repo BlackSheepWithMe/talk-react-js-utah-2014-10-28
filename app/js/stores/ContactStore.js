@@ -1,5 +1,5 @@
 /** @jsx */
-var HOST = 'http://addressbook-api.herokuapp.com';
+var HOST = 'http://localhost:6969';
 var req = require('../lib/req');
 var EventEmitter = require('events').EventEmitter;
 var mergeInto = require('react/lib/mergeInto');
